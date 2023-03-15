@@ -7,12 +7,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Toolbox</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Segment Mafia</title>
+        <link rel="icon" href="segment_logo.eps" />
       </Head>
 
       <main>
-        <Header title="Next.js Toolbox" />
+        <Header title="Segment Mafia" />
         <hr />
         <p className="description">
           Here's an example of a Netlify Form! When you fill this out, the
