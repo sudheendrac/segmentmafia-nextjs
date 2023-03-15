@@ -13,11 +13,9 @@ export default function Home() {
         <Header title="Segment Mafia" />
         <hr />
         <p className="description">
-          <b> Founders </b> <br>
-    Peter Reinhardt, Charm Industrial <br>
-    Ilya Volodarsky, Wildfires.org <br>
-    
-
+          <b> Founders </b> <br />
+    Peter Reinhardt, Charm Industrial <br />
+    Ilya Volodarsky, Wildfires.org <br />
         </p>
       </main>
       
