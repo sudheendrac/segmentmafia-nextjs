@@ -13,8 +13,11 @@ export default function Home() {
         <Header title="Segment Mafia" />
         <hr />
         <p className="description">
-          Here's an example of a Netlify Form! When you fill this out, the
-          submissions can be found in the Netlify Admin site.
+          <b> Founders </b> <br>
+    Peter Reinhardt, Charm Industrial <br>
+    Ilya Volodarsky, Wildfires.org <br>
+    
+
         </p>
       </main>
       
