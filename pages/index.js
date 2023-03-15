@@ -7,8 +7,8 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Segment Mafia</title>
-   // <p> Former Segment employees who are now running their own startups or leading teams elsewhere  </p>
-        <link rel="icon" href="assets/Segment_Logo_Avatar_Green.eps" />
+   <p> Featuring former Segment employees who are now running their own startups or leading teams elsewhere  </p>
+        <link rel="icon" href="/Segment_Logo_Avatar_Green.eps" />
       </Head>
 
       <main>
