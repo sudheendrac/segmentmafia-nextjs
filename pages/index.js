@@ -7,7 +7,6 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Segment Mafia</title>
-   <p> Featuring former Segment employees who are now running their own startups or leading teams elsewhere  </p>
         <link rel="icon" href="/Segment_Logo_Avatar_Green.eps" />
       </Head>
 
@@ -18,8 +17,8 @@ export default function Home() {
           Here's an example of a Netlify Form! When you fill this out, the
           submissions can be found in the Netlify Admin site.
         </p>
-       
       </main>
+      
       <Footer />
     </div>
   );
