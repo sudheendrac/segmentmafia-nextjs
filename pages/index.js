@@ -8,7 +8,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Segment Mafia</title>
-        <link rel="icon" href="segment_logo.eps" />
+        <link rel="icon" href="assets/Segment_Logo_Avatar_Green.eps" />
       </Head>
 
       <main>
