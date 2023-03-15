@@ -19,8 +19,8 @@ export default function Home() {
     <br /> <br />
     
     <b> Operators </b> <br />
-    Jeff Boes, Merge.dev <br />
-    Brandon Frankel, Middesk <br />
+    Jeff Boes, VP of Sales at Merge.dev <br />
+    Brandon Frankel, VP of Sales at Middesk <br />
 
     <br /> <br />
     
